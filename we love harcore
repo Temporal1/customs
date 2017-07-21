@@ -1,0 +1,12 @@
+body::after,
+.callout-backdrop,
+.user-popout::before,
+#user-profile-modal .header::before,
+#pubs-container::before,
+.auth-background,
+.auth-tiling-bg,
+.invite-modal .invite-splash,
+.radio-theme.light label,
+.radio-theme.dark label{
+    background-image: url(http://animevost.org/uploads/fotos/foto_84939.png) !important; /* IMPORTANT: Link must be HTTP! */
+}
