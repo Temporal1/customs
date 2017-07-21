@@ -1,22 +1,12 @@
 //META{ao no kanata}*//{}
-/* "NieR_Automata by @AbdelBoulkelch */
-/* By AbdelBoulkelch , Ikaraz and thanks to Zerthox for this code */
+/* "ao no kanata*/
+/* rafael */
 
 /* IMPORT CSS FROM GITHUB */
 @import url(https://gitcdn.xyz/repo/Zerthox/ClearVision/master/css/ClearVision_v5.min.css);
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
 IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS! 
----------------------------------------------------------------------------------------------------------------------------------------------
-*/
-/*
----------------------------------------------------------------------------------------------------------------------------------------------
-================ IMPORTANT LINKS =================
-Github: https://github.com/Wahrandz
-Discord: https://git.io/vMnlu (Join this server !)
-Wiki: https://git.io/vXTqM (Where I create the code)
-Latest version: https://git.io/v6Muk (Theme by  Zerthox)
-Changelog: https://git.io/v6r5N (Look this from Zerthox)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 */
 /*
