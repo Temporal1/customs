@@ -14,8 +14,8 @@ IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: aqua;
-	--hover-color: blue;
+	--main-color: lime;
+	--hover-color: green;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
